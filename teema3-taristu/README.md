@@ -15,3 +15,4 @@ Mõistsin, kuidas pilveteenused muudavad taristu paindlikumaks ja kättesaadavam
 ## Näide
 Google Drive on pilveteenus — failid ei ole sinu arvutis, vaid serveris.
 
+.
