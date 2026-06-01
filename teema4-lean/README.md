@@ -15,3 +15,4 @@ Mõistsin, et Lean ei ole ainult tootmises, vaid ka IT-s ja teenustes.
 ## Näide
 Kui töötaja peab otsima infot mitmest kohast, on see raiskamine.
 
+.
