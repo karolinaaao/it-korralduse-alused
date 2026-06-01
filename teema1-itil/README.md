@@ -15,3 +15,4 @@ Mõistsin, et dokumenteerimine ja standardiseerimine on ITILi keskne osa.
 ## Näide
 Kui printer ei tööta, on see *incident*. Kui kasutaja soovib uut programmi, on see *service request*.
 
+.
