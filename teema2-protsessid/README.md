@@ -15,3 +15,4 @@ Sain aru, et iga protsess peab olema mõõdetav ja pidevalt parendatav.
 ## Näide
 E-poes tellimuse esitamine on protsess: sisend on kliendi soov, väljund on saadetud pakk.
 
+.
